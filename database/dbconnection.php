@@ -1,9 +1,9 @@
 <?php
 
-$dbhost		=	'localhost';
-$dbuser		=	'root';
+$dbhost		=	'127.0.0.1';
+$dbuser		=	'courbis';
 $dbpass		=	'';
-$database	=	'e_vale';
+$database	=	'E_VALE';
 $conn		=	mysqli_connect($dbhost, $dbuser, $dbpass, $database);
 if (! $conn) 
 	{

@@ -1,0 +1,17 @@
+h1{
+	text-align: center;
+}
+
+#recepcionVale{
+	height: 300px;
+	width: 300px;
+	border: 2px solid; 
+	margin-left: 39%;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#iconPaper{
+	margin-top: 29%;
+	margin-left: 35px;
+}
