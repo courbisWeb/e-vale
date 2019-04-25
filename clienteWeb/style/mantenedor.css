@@ -1,0 +1,15 @@
+#contenedor
+{
+	margin-left: 5%;	
+}
+
+.iconoMantenedor
+{
+	height: 200px;
+	width: 200px;
+	border: 2px solid; 
+	margin-top: 20px;
+	text-align: center;
+	margin-left: 10px;
+	float: left;
+}
